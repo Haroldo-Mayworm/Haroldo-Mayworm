@@ -1,38 +1,63 @@
-```Java
-import java.Developer
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Haroldo Mayworm" 
+        self.location = "Rio de Janeiro" 
+        self.interests = [
+            "Automation",
+            "Artificial Intelligence",
+            "Cybersecurity",
+            "Data Analysis",
+            "Backend Development"
+        ]
 
-public class Developers {
-public static void main(String[] args) {
-        Developer developer = new Developer();
-        developer.name = "Haroldo Mayworm";
-        developer.description = "Sou um entusiasta do desenvolvimento apaixonado por novas
-                                 tecnologias e determinado a deixar minha marca no mundo digital.
-                                 Quando não estou codificando, você pode me encontrar mergulhando
-                                 em jogos online ou explorando mundos fascinantes nas páginas de um bom livro.
-        developer.area = "Programming student";
-    }
-}
+    def about_me(self):
+        return """
+        Apaixonado por tecnologia, automação e segurança da informação.
+        Atualmente focado no desenvolvimento com Python, criação de agentes
+        inteligentes, integrações via APIs, análise de dados e automação de processos.
+
+        Sempre estudando novas tecnologias e construindo projetos para
+        transformar ideias em soluções reais.
+        """
 ```
-<br>
-<br>
 
-## 📝 Minhas Skills
+---
 
-<br>
+# 📝 Minhas Skills
 
-## 🚀 Estou aprendendo
+### Linguagens
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🛠 Ferramentas
+---
 
-<code><img height="32" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git"/></code>
-<code><img height="32" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub"/></code>
-<code><img height="32" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/></code>
-<code><img height="32" src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="Figma"/></code>
-<code><img height="32" src="https://img.icons8.com/?size=256&id=HGd2amAYhRGr&format=png" alt="Canva"/></code>
+### Dados
 
-<br>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## Onde me encontrar
+---
 
+# 🚀 Atualmente Aprendendo
+
+- Desenvolvimento com Python
+
+---
+
+# 🛠 Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+--- 
+
+# 🌎 Onde me encontrar
+
+- LinkedIn: [linkedin.com/in/haroldomayworm](https://www.linkedin.com/in/haroldomayworm/)
+- E-mail: haroldomayworm@gmail.com
